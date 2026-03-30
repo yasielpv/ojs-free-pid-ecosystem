@@ -1,0 +1,9 @@
+[submodule "pkp-ark-pubid"]
+	path = pkp-ark-pubid
+	url = https://github.com/yasielpv/pkp-ark-pubid
+[submodule "pubIdResolver"]
+	path = pubIdResolver
+	url = https://github.com/yasielpv/pubIdResolver
+[submodule "pkp-purl-pubid"]
+	path = pkp-purl-pubid
+	url = https://github.com/yasielpv/pkp-purl-pubid
